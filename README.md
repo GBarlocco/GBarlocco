@@ -2,8 +2,8 @@
 
 ### About me:
 
-- 👨‍💻 Industry programmer 👉 [Nordex](https://www.nordex.com.uy)
-- 👨‍🏫 Student 👉 [ORT](https://www.ort.edu.uy), [Coderhouse](https://www.coderhouse.com/)
+- 👨‍💻🤖 Industry programmer 👉 [Nordex](https://www.nordex.com.uy)
+- 👨‍🏫   Student 👉 [ORT](https://www.ort.edu.uy), [Coderhouse](https://www.coderhouse.com/)
 
 
 ### 🛠 Skills:
