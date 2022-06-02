@@ -1,4 +1,4 @@
-## Hi :man:! I`m Gastón!
+## Hi ✋! I`m Gastón!
 
 ### About me:
 
