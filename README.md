@@ -39,8 +39,6 @@
 
 <p align='left'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GBarlocco&show_icons=true&locale=en&langs_count=8&theme=aura&layout=compact&hide=html,shell" alt="gastonbarloccostatus" /></p>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={GBarlocco}
-
 ---
 
 <p align='center'>
